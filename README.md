@@ -1,4 +1,4 @@
-# CP1404 Assignment 2 - Movies to Watch 2.0 by YOUR_NAME
+# CP1404 Assignment 2 - Movies to Watch 2.0 by JialeTang
 
 A Python project with GUI and Console programs that (re)use classes to manage a list of *Movies to Watch*.
 
