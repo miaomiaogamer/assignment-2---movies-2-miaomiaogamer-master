@@ -2,7 +2,7 @@
 Name:Jiale Tang
 Date:18/1/2021
 Brief Project Description:Movies to watch 2.0 with GUI
-GitHub URL:https://github.com/JCUS-CP1404/assignment-2---movies-2-miaomiaogamer
+GitHub URL:https://github.com/miaomiaogamer/assignment-2---movies-2-miaomiaogamer-master
 """
 # TODO: Create your main program in this file, using the MoviesToWatchApp class
 
